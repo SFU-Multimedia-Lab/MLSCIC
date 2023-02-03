@@ -41,8 +41,11 @@ similar in the last line.
 There are 4 pre-trained models, which can be downloaded from the below link:
 
 bmshj2018_2Dec	"https://vault.sfu.ca/index.php/s/tPq7IMZVIo733wo/download"
+
 bmshj2018_SC	"https://vault.sfu.ca/index.php/s/im6lQhLw5wNAg6n/download"
+
 ms2020_2Dec		"https://vault.sfu.ca/index.php/s/uiTmjr2fix1O9jQ/download"
+
 ms2020_SC		"https://vault.sfu.ca/index.php/s/BNJgxbMVtCkuYH5/download"
 
 
@@ -66,7 +69,7 @@ will be named like the input file, only with the appropriate file extension
 appended (any existing extensions will not be removed).
 
 
-As example:
+### As example:
 
 1- Download a pre-trained model: 
 ```bash
