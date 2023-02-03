@@ -79,12 +79,12 @@ tar xvf bmshj2018_2Dec.tar
 
 2- Compress a PNG file (you can use the PNG files from the MLSCID-test.tar.gz)
 ```bash
-python Scripts/bmshj2018-2Dec.py --model_path "bmshj2018_2Dec/lambda_0.01/bmshj2018/" compress MLSCID-test/SC_N_180.png TFCI-files/SC_N_180.png.tfci
+python Scripts/bmshj2018-2Dec.py --model_path "bmshj2018_2Dec/lambda_0.01/bmshj2018/" compress MLSCID-test/SC_N_110.png TFCI-files/SC_N_110.png.tfci
 ```
 
 3- Decompress a TFCI file
 ```bash
-python Scripts/bmshj2018-2Dec.py --model_path "bmshj2018_2Dec/lambda_0.01/bmshj2018/" decompress TFCI-files/SC_N_180.png.tfci Reconstructed_Images/Rec_SC_N_180.png
+python Scripts/bmshj2018-2Dec.py --model_path "bmshj2018_2Dec/lambda_0.01/bmshj2018/" decompress TFCI-files/SC_N_110.png.tfci Reconstructed_Images/Rec_SC_N_110.png
 ```
 
 ## Training dataset
