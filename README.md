@@ -89,7 +89,7 @@ python Scripts/bmshj2018-2Dec.py --model_path "bmshj2018_2Dec/lambda_0.01/bmshj2
 
 ## Training dataset
 
-The training dataset contains 3000 images and their corresponding segmentation masks. You can also download the training dataset from the following link:
+The training dataset contains 3000 images and their corresponding segmentation masks. You can download the training dataset from the following link:
 
 MLSCID-training-sets "http://vault.sfu.ca/index.php/s/KMs4eQswIEHfbq7/download"
 
