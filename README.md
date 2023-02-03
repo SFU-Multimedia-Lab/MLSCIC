@@ -1,7 +1,7 @@
 # MLSCID
 
 
-Multi-Task Learning for Screen Content Image Coding Dataset and Pre-trained Models
+Multi-Task Learning for Screen Content Image Coding (Dataset and Pre-trained Models)
 
 The following instructions talk about dataset and pre-trained models, which are explained in the paper titled "Multi-Task Learning for Screen Content Image Coding."
 
