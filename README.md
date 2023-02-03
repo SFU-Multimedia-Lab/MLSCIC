@@ -1,4 +1,4 @@
-# MLSCID
+# MLSCIC
 
 
 Multi-Task Learning for Screen Content Image Coding (Dataset and Pre-trained Models)
@@ -51,7 +51,7 @@ ms2020_SC		"https://vault.sfu.ca/index.php/s/BNJgxbMVtCkuYH5/download"
 
 
 
-In the repository (https://github.com/SFU-Multimedia-Lab/MLSCID/Scripts), you'll find four Python scripts. For each model, you need to download the related script file and run:
+In the repository (https://github.com/SFU-Multimedia-Lab/MLSCID/tree/main/Scripts), you'll find four Python scripts. For each model, you need to download the related script file and run:
 
 
 ```bash
