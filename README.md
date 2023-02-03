@@ -17,6 +17,7 @@ The following instructions talk about dataset and pre-trained models, which are 
 
 ***Note: First, you need to install the TensorFlow Compression (TFC) library. Details on how to instal TensorFlow Compression can be found at the following link.
 https://github.com/tensorflow/compression
+
 In summary, the necessary instructions for installation are given below.
 
 ### pip
