@@ -38,7 +38,7 @@ similar in the last line.
 
 ## Usage
 ### Using a pre-trained model to compress an image
-There are 4 pre-trained models, which can be downloaded from the below link:
+There are 4 pre-trained models with different lambda sizes, which can be downloaded from the below links:
 
 bmshj2018_2Dec	"https://vault.sfu.ca/index.php/s/tPq7IMZVIo733wo/download"
 
