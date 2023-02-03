@@ -73,7 +73,7 @@ appended (any existing extensions will not be removed).
 
 1- Download a pre-trained model: 
 ```bash
-wget -c http://vault.sfu.ca/index.php/s/tPq7IMZVIo733wo/download -O bmshj2018_2Dec.tar
+wget -c https://vault.sfu.ca/index.php/s/tPq7IMZVIo733wo/download -O bmshj2018_2Dec.tar
 tar xvf bmshj2018_2Dec.tar
 ```
 
