@@ -7,7 +7,7 @@ The following instructions talk about dataset and pre-trained models, which are 
 
 > "Multi-Task Learning for Screen Content Image Coding."<br />
 > Rashid Zamanshoar Heris, Ivan Bajic <br />
-> https://arxiv.org/----------
+> https://arxiv.org/abs/2302.02014
 
 
 
@@ -103,5 +103,6 @@ If you use this datset for research purposes, please cite:
 @paper{,
   author = "Rashid Zamanshoar Heris, Ivan Bajic",
   title = "Multi-Task Learning for Screen Content Image Coding",
-  
+  url = "https://arxiv.org/abs/2302.02014"
+  year = "2023"
 }
