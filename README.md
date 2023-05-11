@@ -6,7 +6,7 @@ Multi-Task Learning for Screen Content Image Coding (Dataset and Pre-trained Mod
 The following instructions talk about dataset and pre-trained models, which are explained in the paper titled "Multi-Task Learning for Screen Content Image Coding."
 
 > "Multi-Task Learning for Screen Content Image Coding."<br />
-> Rashid Zamanshoar Heris, Ivan Bajic <br />
+> Rashid Zamanshoar Heris, Ivan Bajić <br />
 > https://arxiv.org/abs/2302.02014
 
 
@@ -101,7 +101,7 @@ MLSCID-training-sets "http://vault.sfu.ca/index.php/s/KMs4eQswIEHfbq7/download"
 If you use this datset for research purposes, please cite:
 ```
 @paper{,
-  author = "Rashid Zamanshoar Heris, Ivan Bajic",
+  author = "Rashid Zamanshoar Heris, Ivan Bajić",
   title = "Multi-Task Learning for Screen Content Image Coding",
   url = "https://arxiv.org/abs/2302.02014"
   year = "2023"
